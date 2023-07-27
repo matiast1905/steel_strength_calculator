@@ -98,3 +98,5 @@ The metric used in the evaluation of the models is **Root Mean Square Error**. T
 I create a **streamlit app** that allow the user to enter the composition of the steel, and gives the curves of the **tensile strength (in MPa)** and **yield strength (in MPa)** vs the *temperature (in °C)*
 
 ![streamlit_app_pic](images/streamlit_app.PNG)
+
+The app is deployed in the streamlit server and could be accessed in [this link](https://steelstrengthcalculator-kwzjyiwygdzuqugzg87wod.streamlit.app/)
